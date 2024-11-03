@@ -1,0 +1,7 @@
+# Copyright 2021 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=cryptonhq/zmk-acorn
+outboard_ref=main
+outboard_from=boards/shields/acorn
+outboard_to=boards/shields/acorn
