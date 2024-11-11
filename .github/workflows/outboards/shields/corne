@@ -1,0 +1,7 @@
+# Copyright 2021 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=619frank/zmk-config-corne
+outboard_ref=master
+outboard_from=boards/shields/corne
+outboard_to=boards/shields/corne
